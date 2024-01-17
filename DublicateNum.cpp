@@ -5,6 +5,7 @@ using namespace std;
 
 class Solution {
 public:
+//dublicete
     int findDuplicate(vector<int>& nums) {
         int low = 1;
         int high = nums.size() - 1; // Range: [1, n]
