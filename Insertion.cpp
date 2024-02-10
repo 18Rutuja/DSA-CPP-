@@ -1,7 +1,8 @@
 #include <bits/stdc++.h>
+#include<iostream>
 using namespace std;
 //O(n*n) ==  worst case
-// avg = O(n*n);
+// avg complexity = O(n*n);
 // best = O(n)
 void insertion_sort(int arr[], int n){
 for(int i=0; i<=n-1; i++){
