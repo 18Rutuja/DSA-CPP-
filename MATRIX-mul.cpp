@@ -47,6 +47,8 @@ int main() {
     }
 
     // Output the resultant matrix C
+    //2021bec070@sggs.ac.in
+    //20/04/2024
     cout << "Resultant matrix C:" << endl;
     for (int i = 0; i < r1; i++) {
         for (int j = 0; j < c2; j++) {
