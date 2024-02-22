@@ -34,7 +34,7 @@ public:
         int n = mergedArray.size();
         if(n % 2 == 0) {
             // Even number of elements
-            return (double)(mergedArray[n/2 - 1] + mergedArray[n/2]) / 2.0;
+            return (double)(mergedArray[n/2 - 1] + mergedArray[n/2]) / 2;
         } else {
             // Odd number of elements
             return mergedArray[n/2];
